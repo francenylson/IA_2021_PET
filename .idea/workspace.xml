@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48e14016-dc6a-4539-83aa-9068b0cd9e36" name="Default Changelist" comment="" />
+    <list default="true" id="48e14016-dc6a-4539-83aa-9068b0cd9e36" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../IA_2021_PET/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IA_2021_PET/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IA_2021_PET/POCs/rone_Falando.py" beforeDir="false" afterPath="$PROJECT_DIR$/../IA_2021_PET/POCs/rone_Falando.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,12 +12,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../IA_2021_PET/POCs/rone_Falando.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -23,6 +26,18 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../IA_2021_PET" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../IA_2021_PET" value="ia_2021_pet" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../IA_2021_PET/POCs/rone_Falando.py" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
@@ -60,7 +75,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IA_2021_PET/POCs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IA_2021_PET" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -191,6 +206,8 @@
       <list>
         <item itemvalue="Python.rone_Falando" />
         <item itemvalue="Python.assistenteFalando" />
+        <item itemvalue="Python.rone_Falando" />
+        <item itemvalue="Python.assistenteFalando" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598884692841</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="renomeando para rone_falando,,,.">
+      <created>1598884821536</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598884821536</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -255,7 +279,8 @@
     <MESSAGE value="atualização Mil grau" />
     <MESSAGE value="renomeando para rone_falando" />
     <MESSAGE value="renomeando para rone_falando,,," />
-    <option name="LAST_COMMIT_MESSAGE" value="renomeando para rone_falando,,," />
+    <MESSAGE value="renomeando para rone_falando,,,." />
+    <option name="LAST_COMMIT_MESSAGE" value="renomeando para rone_falando,,,." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../IA_2021_PET/POCs/assistenteFalando.py">
@@ -267,8 +292,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../IA_2021_PET/POCs/rone_Falando.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
