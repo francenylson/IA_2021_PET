@@ -17,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/../IA_2021_PET/POCs/rone_Falando.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -250,23 +250,31 @@
       <option name="project" value="LOCAL" />
       <updated>1598884821536</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="renomeando para rone_falando,.">
+      <created>1598885994143</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598885994143</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="34" width="1026" height="566" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.249501" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32879817" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32879817" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32879817" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32879817" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
@@ -280,7 +288,8 @@
     <MESSAGE value="renomeando para rone_falando" />
     <MESSAGE value="renomeando para rone_falando,,," />
     <MESSAGE value="renomeando para rone_falando,,,." />
-    <option name="LAST_COMMIT_MESSAGE" value="renomeando para rone_falando,,,." />
+    <MESSAGE value="renomeando para rone_falando,." />
+    <option name="LAST_COMMIT_MESSAGE" value="renomeando para rone_falando,." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../IA_2021_PET/POCs/assistenteFalando.py">
@@ -293,7 +302,7 @@
     <entry file="file://$PROJECT_DIR$/../IA_2021_PET/POCs/rone_Falando.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
         </state>
       </provider>
     </entry>
