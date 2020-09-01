@@ -1,6 +1,6 @@
 import speech_recognition as sr # pip install SpeechRecognition
 import pyaudio
-
+# obrigado Cristo
 
 r = sr.Recognizer()
 
